@@ -2,7 +2,7 @@
 
 Submitted by: **Jalen Olsen**
 
-**HelloWorld** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**SimpleCounter** is an android app that counts up everytime a button is pressed. 
 
 Time spent: **1** hours spent in total
 
@@ -10,13 +10,16 @@ Time spent: **1** hours spent in total
 
 The following **required** functionality is completed:
 
-* [X] Image and introductory message displayed on screen
-* [X] Button displayed on screen
-* [X] Toast with message appears when button is pressed 
+* [X] User can see a number displayed on the screen. The number starts at 0.
+* [X] User can tap on a button to see the number displayed increase by 1.
 
 The following **optional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [ ] User can exchange number of taps accumulated for upgrades:
+        Ideas for possible upgrades:
+        User can exchange 100 taps for an upgrade where each tap will count as 2 taps
+        User can exchange 100 taps for an icon button instead of the standard one.
+* [ ] Customize the app with a theme. For example, you can have a dog background and a paw print button to give your app a dog theme.
 
 ## Video Walkthrough
 
