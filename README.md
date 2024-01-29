@@ -36,7 +36,7 @@ GIF created with ScreenToGif
 
 ## Notes
 
-Only issues had were having to declare Git username and email in Bash or else the project would share to Github but would be unable to be accessed.
+None
 
 ## License
 
